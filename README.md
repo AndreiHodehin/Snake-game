@@ -1,8 +1,8 @@
-# ~~~~~~~~~~~~~~~~Snake-game~~~~~~~~~~~~~~~~
+# ~~~~~~~~~~~Snake-game~~~~~~~~~~~
 
 It's simple snake game on java . You can choose snakes speed bofore game or in time. Stop and resume game - press space .
 
-# ~~~~~~~~~~~~~~~~How to start?~~~~~~~~~~~~~~~~
+# ~~~~~~~~~~~How to start?~~~~~~~~~~~
 
 It's simply! Download project from GIT, click on SnaceVer2.jar and play.
 
