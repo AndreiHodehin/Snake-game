@@ -4,7 +4,8 @@ It's simple snake game on java . You can choose snakes speed bofore game or in t
 
 # ~~~~~~~~~~~How to start?~~~~~~~~~~~
 
-It's simply! Download project from GIT, click on SnaceVer2.jar and play.
+It's simply!Click on SnaceVer2.jar in repository of project, 
+after the file has downloaded, just double click on it.
 
 
 
