@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SnaceVer2:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SnaceVer2_jar</output-path>
+    <root id="archive" name="SnaceVer2.jar">
+      <element id="module-output" name="SnakeVer2" />
+    </root>
+  </artifact>
+</component>
